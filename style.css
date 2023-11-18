@@ -1,0 +1,9 @@
+body {
+  background-color: antiquewhite;
+}
+
+#titulo {
+  text-align: center;
+  color: aqua;
+  background-color: black;
+}
